@@ -4,7 +4,10 @@
 
 ## about
 
-simple `bcrypt` password generator.
+simple password utility. supports passwords
+of the following type:
+
+  - `bcrypt`
 
 ## usage
 
